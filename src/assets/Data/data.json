@@ -1,0 +1,132 @@
+{
+    "portada":{
+        "name":"Mauro Waldemar Galizzi",
+        "position":""
+    },
+    "aboutme":{
+        "title":"FULL STACK WEB DEVELOPER",
+        "about":"Hola! Mi nombre es Waldemar soy Web Dev. Actualmente mi Stack es { Angular - SpringBoot - MySQL }. Mis objetivos son establecerme en una empresa y crecer en el área laboral, personal e intelectual.",
+        "objetives":"",
+        "ubication":"Santa Fé - Argentina",
+        "email":"waldemargalizzi98@gmail.com"
+    },
+    "educacion": [
+        {
+            "name":"Universitaria",
+            "title":"Ingenieria en Sistemas",
+            "beginning":"Marzo.2017"
+        },
+        {
+            "name":"CESSI e INTI",
+            "title":"Full Stack Web Developer",
+            "beginning":"Julio.2022 - Enero.2023"
+        },
+        {
+            "name":"Ministerio de Desarrollo Productivo y CESSI",
+            "title":"Fundamentos básicos de programación",
+            "beginning":"Febrero.2022 - Abril.2022"
+        },
+        {
+            "name":"EPNMyS N°35 Técnica Gral Don José de San Martín",
+            "title":"Bachiller en construcciones y Técnico. Maestro Mayor de Obras",
+            "beginning":"Marzo.2010 - Diciembre.2016"
+        }
+    ],
+    "habilidades": [
+        {
+            "name":"Angular",
+            "porcentaje":"60"
+        },
+        {
+            "name":"SpringBoot",
+            "porcentaje":"50"
+        },
+        {
+            "name":"MySQL",
+            "porcentaje":"30"
+        },
+        {
+            "name":"TypeScript",
+            "porcentaje":"40"
+        },
+        {
+            "name":"Java",
+            "porcentaje":"50"
+        },
+        {
+            "name":"Bootstrap",
+            "porcentaje":"50"
+        },
+        {
+            "name":"React",
+            "porcentaje":"10"
+        },
+        {
+            "name":"Laravel",
+            "porcentaje":"5"
+        },
+        {
+            "name":"Git - Github",
+            "porcentaje":"50"
+        },
+        {
+            "name":"JavaScript",
+            "porcentaje":"45"
+        },
+        {
+            "name":"PHP",
+            "porcentaje":"10"
+        },
+        {
+            "name":"Ingles Pre-intermedio",
+            "porcentaje":"30"
+        }
+    ],
+
+    "proyectos": [
+
+        {   
+            "image":"./assets/img/portfolio1.png",
+            "title":"Café",
+            "text":"Una sencilla página echa como practica en html y puro css.",
+            "git": "https://github.com/Wallesi/Pag-Web-Cafe.git",
+            "web":"https://page-porfolio-2.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio2.png",
+            "title":"Portfolio v1",
+            "text":"Mi primer portfolio echo con html, css puro y algo de Js.",
+            "git": "https://github.com/Wallesi/Primer---Porfolio.git",
+            "web":"https://portafolio-waldemargalizzi.netlify.app"
+        },
+        {
+            "image":"./assets/img/portfolio3.png",
+            "title":"Veterinaria",
+            "text":"Página de practica echa para una veterinaria.",
+            "git": "https://github.com/Wallesi/Vet---El-Arca.git",
+            "web":"https://page-portfolio-1.netlify.app"
+        },
+        {
+            "image":"./assets/img/portfolio4.png",
+            "title":"Página presentación Athlete Squad",
+            "text":"Emprendimiento de rutinas para gym.",
+            "git": "https://github.com/Wallesi/Page---4.git",
+            "web":"https://atheletesquad.netlify.app"
+        },
+        {
+            "image":"./assets/img/portfolio5.png",
+            "title":"Page - 4",
+            "text":"Página presentación echa como practica en html,css y Js",
+            "git": "https://github.com/Wallesi/pag4.git",
+            "web":  "https://page-porfolio-4.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio6.png",
+            "title":"Proyecto Final - Argentina Programa",
+            "text":"Portfolio modular con opciones de agregar, editar y eliminar partes. Desarrollado en Angular, SpringBoot y estilos de Bootstrap. El deploy se realizó en CleverCloud, Render y Firebase.",
+            "git": "https://github.com/Wallesi/FrontEnd-YoProgramo.git",
+            "web":"https://github.com/Wallesi/BackEnd-YoProgramo.git"
+        }
+
+    ]
+}
