@@ -14,22 +14,26 @@
         {
             "name":"Universitaria",
             "title":"Ingenieria en Sistemas",
-            "beginning":"Marzo.2017"
+            "beginning":"Marzo.2017 - Now",
+            "certificado":""
         },
         {
             "name":"CESSI e INTI",
             "title":"Full Stack Web Developer",
-            "beginning":"Julio.2022 - Enero.2023"
+            "beginning":"Julio.2022 - Enero.2023",
+            "certificado":"https://drive.google.com/file/d/1iRAJzuvym6PzhOyi01-4MD5ilVIEAnr2/view?usp=sharing"
         },
         {
             "name":"Ministerio de Desarrollo Productivo y CESSI",
             "title":"Fundamentos básicos de programación",
-            "beginning":"Febrero.2022 - Abril.2022"
+            "beginning":"Febrero.2022 - Abril.2022",
+            "certificado":"https://drive.google.com/file/d/19qc6qL-A29ii9OeFxVbKRVba4fN4hzq8/view?usp=sharing"
         },
         {
             "name":"EPNMyS N°35 Técnica Gral Don José de San Martín",
             "title":"Bachiller en construcciones y Técnico. Maestro Mayor de Obras",
-            "beginning":"Marzo.2010 - Diciembre.2016"
+            "beginning":"Marzo.2010 - Diciembre.2016",
+            "certificado":""
         }
     ],
     "habilidades": [
@@ -59,7 +63,7 @@
         },
         {
             "name":"React",
-            "porcentaje":"10"
+            "porcentaje":"20"
         },
         {
             "name":"Laravel",
@@ -78,8 +82,8 @@
             "porcentaje":"10"
         },
         {
-            "name":"Ingles Pre-intermedio",
-            "porcentaje":"30"
+            "name":"Ingles C1",
+            "porcentaje":"60"
         }
     ],
 
@@ -126,6 +130,20 @@
             "text":"Portfolio modular con opciones de agregar, editar y eliminar partes. Desarrollado en Angular, SpringBoot y estilos de Bootstrap. El deploy se realizó en CleverCloud, Render y Firebase.",
             "git": "https://github.com/Wallesi/FrontEnd-YoProgramo.git",
             "web":"https://github.com/Wallesi/BackEnd-YoProgramo.git"
+        },
+        {   
+            "image":"./assets/img/portfolio8.png",
+            "title":"CryptoApp",
+            "text":"Buscador de precios crypto, desarrollada en React. Consume datos de la api CoinGecko ",
+            "git": "https://github.com/Wallesi/React-CryptoPrice.git",
+            "web":"https://cryptoaprice.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio7.png",
+            "title":"ClimaApp",
+            "text":"App para consultar el clima, desarrolada en React.Consume datos de la api OpenWeatherMap ",
+            "git": "https://github.com/Wallesi/React---ClimaApp.git",
+            "web":"https://w-clima.netlify.app"
         }
 
     ]
