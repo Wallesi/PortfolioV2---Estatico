@@ -1,0 +1,136 @@
+{
+    "portada":{
+        "name":"Mauro Waldemar Galizzi",
+        "position":""
+    },
+    "aboutme":{
+        "title":"FULL STACK WEB DEVELOPER",
+        "about":"Hi! My name is Waldemar and I am a Web Developer. Currently, my tech stack consists of Angular, SpringBoot, and MySQL.My objectives are to establish myself in a company and grow in the professional, personal, and intellectual areas.",
+        "objetives":"",
+        "ubication":"Santa Fé - Argentina",
+        "email":"waldemargalizzi98@gmail.com"
+    },
+    "educacion": [
+        {
+            "name":"UTN - FRSF",
+            "title":"Systems Engineering",
+            "beginning":"March.2017 - Now",
+            "certificado":""
+        },
+        {
+            "name":"CESSI e INTI",
+            "title":"Full Stack Web Developer",
+            "beginning":"July.2022 - January.2023",
+            "certificado":"https://drive.google.com/file/d/1iRAJzuvym6PzhOyi01-4MD5ilVIEAnr2/view?usp=sharing"
+        },
+        {
+            "name":"Ministry of Productive Development & CESSI",
+            "title":"Programming basics",
+            "beginning":"February.2022 - April 2022",
+            "certificado":"https://drive.google.com/file/d/19qc6qL-A29ii9OeFxVbKRVba4fN4hzq8/view?usp=sharing"
+        },
+        {
+            "name":"EPNMyS N°35 Técnica Gral Don José de San Martín",
+            "title":"High School Diploma in Construction and Technical Degree. Master Builder",
+            "beginning":"March.2010 - December.2016",
+            "certificado":""
+        }
+    ],
+    "habilidades": [
+        {
+            "name":"Angular",
+            "porcentaje":"60"
+        },
+        {
+            "name":"SpringBoot",
+            "porcentaje":"50"
+        },
+        {
+            "name":"MySQL",
+            "porcentaje":"30"
+        },
+        {
+            "name":"TypeScript",
+            "porcentaje":"40"
+        },
+        {
+            "name":"Java",
+            "porcentaje":"50"
+        },
+        {
+            "name":"Bootstrap",
+            "porcentaje":"50"
+        },
+        {
+            "name":"React",
+            "porcentaje":"20"
+        },
+        {
+            "name":"Laravel",
+            "porcentaje":"5"
+        },
+        {
+            "name":"Git - Github",
+            "porcentaje":"50"
+        },
+        {
+            "name":"JavaScript",
+            "porcentaje":"45"
+        },
+        {
+            "name":"PHP",
+            "porcentaje":"10"
+        },
+        {
+            "name":"English B2",
+            "porcentaje":"50"
+        }
+    ],
+
+    "proyectos": [
+        {   
+            "image":"./assets/img/portfolio2.png",
+            "title":"Portfolio v1",
+            "text":"My first portfolio developed in Html and Css. Hosted on Netlify",
+            "git": "https://github.com/Wallesi/Primer---Porfolio.git",
+            "web":"https://portafolio-waldemargalizzi.netlify.app"
+        },
+        {
+            "image":"./assets/img/portfolio4.png",
+            "title":"Landing Page - Athlete Squad",
+            "text":"Developed in Html, Css. Hosted on Netlify",
+            "git": "https://github.com/Wallesi/Page---4.git",
+            "web":"https://atheletesquad.netlify.app"
+        },
+        {
+            "image":"./assets/img/portfolio3.png",
+            "title":"Veterinary",
+            "text":"Veterinary Landing Page developed in pure Html, Css, and Js. It is hosted on Netlify",
+            "git": "https://github.com/Wallesi/Vet---El-Arca.git",
+            "web":"https://page-portfolio-1.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio8.png",
+            "title":"CryptoApp",
+            "text":"Crypto price search engine developed in React. It consumes data from the CoinGecko API, and it was deployed on Netlify",
+            "git": "https://github.com/Wallesi/React-CryptoPrice.git",
+            "web":"https://cryptoaprice.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio7.png",
+            "title":"ClimaApp",
+            "text":"Weather app developed in React. It consumes data from the OpenWeatherMap API and allows users to check the temperature in Fahrenheit and Celsius. The app was deployed on Netlify",
+            "git": "https://github.com/Wallesi/React---ClimaApp.git",
+            "web":"https://w-clima.netlify.app"
+        },
+        {   
+            "image":"./assets/img/portfolio6.png",
+            "title":"Proyecto Final - Argentina Programa",
+            "text":"Modular portfolio with options to add, edit, and delete parts. Developed using Angular, SpringBoot, and Bootstrap styling. The project was deployed on CleverCloud, Render, and Firebase",
+            "git": "https://github.com/Wallesi/FrontEnd-YoProgramo.git",
+            "web":"https://github.com/Wallesi/BackEnd-YoProgramo.git"
+        }
+        
+
+    ]
+}

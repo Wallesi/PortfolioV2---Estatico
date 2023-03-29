@@ -1,0 +1,20 @@
+<!-- EDUCACION -->
+
+<div class="card" style="margin-top: 20px;" id="educacion">
+
+  
+
+  <h2 class="card-title text-center"  style="margin-top: 20px;margin-bottom: 20px;">Education</h2>  
+
+    <div card-body border-bottom border-primary>
+      <div *ngFor="let educacion of miEducation"  class="card-body border-top border-secondary-subtle">
+        
+        <h4 class="card-subtitle mb-2 text-muted">{{educacion.name}}</h4>
+        <h6 class="card-text">{{educacion.title}}</h6>
+        <p class="card-text">{{educacion.beginning}}</p>
+        <!-- <a *ngIf="mostrarBoton" [href]="educacion.certificado" class="btn btn-primary" target=_blank>Certificado</a> -->
+      </div>
+    </div>
+
+    
+  </div>
