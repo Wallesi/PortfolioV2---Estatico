@@ -4,7 +4,7 @@ import { VistaLogeadoComponent } from './componentes/vista-logeado/vista-logeado
 import { PrincipalComponent } from './componentes/principal/principal.component';
 
 const routes: Routes = [
-  {path : '', redirectTo: 'home', pathMatch:'full'},
+  {path : '', redirectTo: 'profile', pathMatch:'full'},
   {path: 'home', component: PrincipalComponent},
   {path: 'profile',component:VistaLogeadoComponent},
 ];

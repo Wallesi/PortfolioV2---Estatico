@@ -17,6 +17,7 @@ import { VistaLogeadoComponent } from './componentes/vista-logeado/vista-logeado
 
 import { PrincipalComponent } from './componentes/principal/principal.component';
 import { CertificadosComponent } from './componentes/certificados/certificados.component';
+import { ContactoComponent } from './componentes/contacto/contacto.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { CertificadosComponent } from './componentes/certificados/certificados.c
     FooterComponent,
     VistaLogeadoComponent,
     PrincipalComponent,
-    CertificadosComponent
+    CertificadosComponent,
+    ContactoComponent
   ],
   imports: [
     BrowserModule,
